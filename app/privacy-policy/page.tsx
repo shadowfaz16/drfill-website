@@ -4,7 +4,7 @@ const PrivacyPolicy: React.FC = () => {
   return (
     <div className="container mx-auto px-4 py-8">
       <h1 className="text-3xl font-bold mb-6">Dr. Fill Privacy Policy</h1>
-      <p className="mb-4">Effective Date: [Insert Date]</p>
+      <p className="mb-4">Effective Date: October 13, 2024</p>
 
       <section className="mb-8">
         <h2 className="text-2xl font-semibold mb-4">Introduction</h2>
@@ -45,7 +45,7 @@ const PrivacyPolicy: React.FC = () => {
 
       <section className="mb-8">
         <h2 className="text-2xl font-semibold mb-4">Contact Us</h2>
-        <p>If you have any questions or concerns about this Privacy Policy, please contact us at [your email address].</p>
+        <p>If you have any questions or concerns about this Privacy Policy, please contact us at erikfazju@gmail.com.</p>
       </section>
     </div>
   );
