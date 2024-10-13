@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     title: "Dr. Fill - AI-Powered Form Filling Assistant",
     description: "Fill forms faster and more accurately with AI assistance",
     type: "website",
-    url: "https://www.drfill.ai",
+    url: "https://www.drfill.vercel.app",
     images: ["/dancing-Fill.gif"],
   },
   twitter: {
