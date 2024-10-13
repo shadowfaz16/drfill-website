@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 
 export default function Home() {
   return (
@@ -13,7 +13,7 @@ export default function Home() {
           <section className="space-y-8">
             <h2 className="text-3xl font-semibold">What is Dr. Fill?</h2>
             <p className="text-lg">
-              Dr. Fill is a revolutionary Chrome extension that leverages the power of AI to help you fill out forms faster and more accurately than ever before. Using advanced RAG (Retrieval-Augmented Generation) technology and OpenAI's language models, Dr. Fill taps into your personal knowledge base to provide context-aware suggestions for form fields.
+              Dr. Fill is a revolutionary Chrome extension that leverages the power of AI to help you fill out forms faster and more accurately than ever before. Using advanced RAG (Retrieval-Augmented Generation) technology and OpenAI&apos;s language models, Dr. Fill taps into your personal knowledge base to provide context-aware suggestions for form fields.
             </p>
             <div className="bg-white/10 rounded-lg p-6">
               <h3 className="text-2xl font-semibold mb-4">Key Features:</h3>

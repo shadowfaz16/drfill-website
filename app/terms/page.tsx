@@ -9,14 +9,14 @@ const TermsOfService: React.FC = () => {
         <div className="bg-white/10 rounded-lg p-8 mb-8">
           <h2 className="text-3xl font-semibold mb-4">1. Acceptance of Terms</h2>
           <p className="mb-4">
-            By using Dr. Fill, you agree to be bound by these Terms of Service. If you don't agree to these terms, please do not use the Extension.
+            By using Dr. Fill, you agree to be bound by these Terms of Service. If you don&apos;t agree to these terms, please do not use the Extension.
           </p>
         </div>
 
         <div className="bg-white/10 rounded-lg p-8 mb-8">
           <h2 className="text-3xl font-semibold mb-4">2. Description of Service</h2>
           <p className="mb-4">
-            Dr. Fill is an AI-powered Chrome extension designed to assist users in filling out forms. It uses OpenAI's language models to provide context-aware suggestions.
+            Dr. Fill is an AI-powered Chrome extension designed to assist users in filling out forms. It uses OpenAI&apos;s language models to provide context-aware suggestions.
           </p>
         </div>
 
@@ -39,7 +39,7 @@ const TermsOfService: React.FC = () => {
         <div className="bg-white/10 rounded-lg p-8 mb-8">
           <h2 className="text-3xl font-semibold mb-4">5. Disclaimer of Warranties</h2>
           <p className="mb-4">
-            The Extension is provided "as is" without warranty of any kind. We do not guarantee that the Extension will be error-free or uninterrupted.
+            The Extension is provided &quot;as is&quot; without warranty of any kind. We do not guarantee that the Extension will be error-free or uninterrupted.
           </p>
         </div>
 
