@@ -1,14 +1,11 @@
 "use client"
-
-import { useState } from 'react'
 import { motion } from 'framer-motion'
-import { CheckCircle, Clock, Shield, Zap } from 'lucide-react'
+import { CheckCircle } from 'lucide-react'
 import Image from 'next/image'
 import drfill from '../assets/dancing-Fill.gif'
 import extension from '../assets/extension.png'
 
 export default function Home() {
-  const [isHovered, setIsHovered] = useState(false)
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-indigo-500 via-purple-500 to-pink-500 text-white font-sans">
